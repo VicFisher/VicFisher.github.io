@@ -41,8 +41,14 @@ education:
   logo: /assets/images/badges/SCU_red.png
   position: >-
     Department of Medical Chemistry, West China School of Pharmacy <br/>
-    B.S. in Drug Design
+    M.S. in Drug Design
   date: Sep. 2019 - Jul. 2023
+- name: SiChuan University
+  logo: /assets/images/badges/SCU_red.png
+  position: >-
+    West China School of Pharmacy <br/>
+    B.S. in Pharmacy
+  date: Sep. 2016 - Jul. 2019
 
 # experience:
 # - name: Peking University
@@ -51,9 +57,7 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
+- name: Certificate of Presentation for ACS Spring 2025
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Outstanding Presentation Award at the Third National Pharmaceutical Graduate Academic Symposium 
+  date: 2023
