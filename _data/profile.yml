@@ -35,19 +35,19 @@ education:
   logo: /assets/images/badges/SCU_red.png
   position: >- 
     Department of Medical Chemistry, West China School of Pharmacy <br/>
-    Ph.D. Student in AIDD
+    Ph.D. student in AIDD
   date: Sep. 2023 - present
 - name: SiChuan University
   logo: /assets/images/badges/SCU_red.png
   position: >-
     Department of Medical Chemistry, West China School of Pharmacy <br/>
-    M.S. in Drug Design
+    M.S. student in Drug Design
   date: Sep. 2019 - Jul. 2023
 - name: SiChuan University
   logo: /assets/images/badges/SCU_red.png
   position: >-
     West China School of Pharmacy <br/>
-    B.S. in Pharmacy
+    B.S. student in Pharmacy
   date: Sep. 2016 - Jul. 2019
 
 # experience:
@@ -57,7 +57,9 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Certificate of Presentation for ACS Spring 2025
+- name: Certificate of Presentation for Virtual Graduate Students Symposium in Asia-Pacific Region on Computational Chemistry, ACS Spring 2025
   date: 2024
 - name: Outstanding Presentation Award at the Third National Pharmaceutical Graduate Academic Symposium 
+  date: 2023
+- name: Second Prize at the Ninth Sichuan University Internet+ College Student Innovation and Entrepreneurship Competition
   date: 2023
