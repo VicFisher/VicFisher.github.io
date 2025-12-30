@@ -26,7 +26,7 @@ short_bio: >-
     My research integrates knowledge- and data-driven approaches to accelerate drug development and advance solutions for combating diseases.
   </p>
 
-portrait_url: /assets/images/photos/portrait.png
+portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
@@ -57,6 +57,10 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
+- name: Doctoral Fellowship in Youth Science and Technology Talent Program, China Association for Science and Technology, 2026-2027
+  date: 2026
+- name: Student membership, China Association for Artificial Intelligence (CAAI), 2026-2027
+  date: 2026
 - name: Sichuan University National Scholarship for Doctoral Students, 2024-2025
   date: 2025
 - name: Best Poster 1st class, Asia Hub for e-Drug Discovery 2025 (AHeDD2025)
