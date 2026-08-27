@@ -10,7 +10,7 @@ positions:
 
 email: "vicfisher6072@163.com"
 cv_link: /assets/CV_JunLinYu.pdf
-# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: o6M92PtqurYC  # This is an example, replace it with your own Google Scholar ID
 github: VicFisher
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -31,24 +31,24 @@ portrait_url: /assets/images/photos/portrait.png
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: SiChuan University
+- name: Sichuan University
   logo: /assets/images/badges/SCU_red.png
   position: >- 
     Department of Medical Chemistry, West China School of Pharmacy <br/>
     Ph.D. student in AIDD
   date: Sep. 2023 - present
-- name: SiChuan University
+- name: Sichuan University
   logo: /assets/images/badges/SCU_red.png
   position: >-
     Department of Medical Chemistry, West China School of Pharmacy <br/>
     M.S. student in Drug Design
-  date: Sep. 2019 - Jul. 2023
-- name: SiChuan University
+  date: Sep. 2020 - Jul. 2023
+- name: Sichuan University
   logo: /assets/images/badges/SCU_red.png
   position: >-
     West China School of Pharmacy <br/>
     B.S. student in Pharmacy
-  date: Sep. 2016 - Jul. 2019
+  date: Sep. 2016 - Jul. 2020
 
 # experience:
 # - name: Peking University
